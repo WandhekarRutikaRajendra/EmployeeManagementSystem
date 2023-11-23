@@ -6,7 +6,6 @@ This is a simple Employee Management System implemented using Spring Boot for th
 
 - `SpringBoot/`: Contains the Spring Boot backend code.
 - `Angular/`: Contains the Angular frontend code.
-- `docs/`: Documentation and other resources.
 
 ## Getting Started
 
