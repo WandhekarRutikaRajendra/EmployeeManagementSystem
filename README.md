@@ -16,13 +16,7 @@ This is a simple Employee Management System implemented using Spring Boot for th
 - Node.js and npm
 - Angular CLI
 
-### Running the Backend (Spring Boot)
 
-1. Open a terminal and navigate to the `SpringBoot/` directory.
-2. Run the following command to start the Spring Boot application:
-
-   ```bash
-   ./mvnw spring-boot:run
 ## Screenshots
 
 ![Screenshot](docs/EM.PNG)
