@@ -26,7 +26,6 @@ This is a simple Employee Management System implemented using Spring Boot for th
 ## Screenshots
 
 ![Screenshot](docs/EM.PNG)
-## Screenshots
 
-![Screenshot](docs/EM2.png)
+![Screenshot](docs/EM2.PNG)
 
