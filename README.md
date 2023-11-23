@@ -25,7 +25,7 @@ This is a simple Employee Management System implemented using Spring Boot for th
    ./mvnw spring-boot:run
 ## Screenshots
 
-![Screenshot](docs/EM.PNG)
+![Screenshot](EM.PNG)
 ## Screenshots
 
 ![Screenshot](docs/EM2.png)
